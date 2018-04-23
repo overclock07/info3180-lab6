@@ -2,6 +2,16 @@ body {
     padding-top: 5rem;
 }
 
+img{
+    height: 200px;
+    width:200px;
+}
+
+.news__item{
+   border-style: 1px solid; 
+    
+}
+
 footer  {
     padding-top: 20px;
 }
